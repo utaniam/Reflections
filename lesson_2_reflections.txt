@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 answer
 .git file gets created in the directory. This way git knows this is a repository.
+
+question
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+answer
+I can pick the files that I need to be part of the commit into the staging area. 
