@@ -26,3 +26,5 @@ How do the diagrams help you visualize the branch structure?
 
 answer
 they show all the commits by branch. This makes it easy to trace a commit to its parent.
+
+why does merge not work
