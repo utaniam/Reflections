@@ -44,3 +44,6 @@ check out changes made to this file
 
 answer
 I can always use checkout to go back to an older version
+
+Summary
+The end of reflections
