@@ -18,3 +18,9 @@ Question
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer
 I can work offline and merge. When I get back online, I can push changes into github repository
+
+Question
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer
+File numbers with desciptors.
+Hard to fork, merge etc.
