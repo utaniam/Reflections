@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 Answer
 A fork is sued to make a copy of a repository on github. I can then download the forkes repository onto my local machine and make changes.
 A branch is used on my local git. I can try experimenting with different things on my new branch.
+
+Question
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer
+I can work offline and merge. When I get back online, I can push changes into github repository
