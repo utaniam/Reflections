@@ -24,3 +24,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Answer
 File numbers with desciptors.
 Hard to fork, merge etc.
+
+Question
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Answer
+I want others on github to see my chanaes, comment on them, agree with/suggets changes and then, finally merge them into master. 
+Merging directly into master, while a lot less involved will not give us this opportunity.
